@@ -5,7 +5,7 @@ import requests
 import random
 
 
-bot = telebot.TeleBot('5069290749:AAFjhEyaaJ4rRUTItyihd_FBTOwiUD-3n-M')
+bot = telebot.TeleBot('token')
 
 
 admin1 = '@Yalyk'
